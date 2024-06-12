@@ -1,0 +1,12 @@
+torchviz~=0.0.2
+thop~=0.1.1-2209072238
+fvcore~=0.1.5.post20221221
+numpy~=1.25.2
+scikit-learn~=1.3.0
+scipy~=1.11.1
+hmmlearn~=0.3.0
+pandas~=2.1.0
+hiddenlayer~=0.3
+tqdm~=4.65.0
+seaborn~=0.12.2
+matplotlib~=3.7.2
