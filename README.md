@@ -1,4 +1,4 @@
-### Codes for conference paper titled "Parallel Graph Neural Networks: Class-imbalanced Gait Phase Recognition via Adaptive Fusion of Multimodal sEMG and Kinematic Data" (IEEE M2VIP, 2024, Under Review).
+### Codes for conference paper titled "Parallel Graph Neural Networks: Class-imbalanced Gait Phase Recognition via Adaptive Fusion of Multimodal sEMG and Kinematic Data" (IEEE M2VIP, 2024, Accepted).
 ### Install: 
 Use "Install.ipynb" to create the environment and dependencies, or install the required dependencies using "pip install requirements.txt".
 ### Usage:
